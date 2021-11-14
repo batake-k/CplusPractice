@@ -2,6 +2,7 @@
 !*/
 
 !*.txt
+!*.hpp
 !*.cpp
 !.gitignore
 !README.md
