@@ -4,5 +4,6 @@
 !*.txt
 !*.hpp
 !*.cpp
+!*.bin
 !.gitignore
 !README.md
